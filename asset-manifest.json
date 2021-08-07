@@ -1,20 +1,23 @@
 {
   "files": {
     "main.css": "/reactfinal/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/reactfinal/static/js/main.3c716828.chunk.js",
-    "main.js.map": "/reactfinal/static/js/main.3c716828.chunk.js.map",
+    "main.js": "/reactfinal/static/js/main.5baddffa.chunk.js",
+    "main.js.map": "/reactfinal/static/js/main.5baddffa.chunk.js.map",
     "runtime-main.js": "/reactfinal/static/js/runtime-main.74a2c900.js",
     "runtime-main.js.map": "/reactfinal/static/js/runtime-main.74a2c900.js.map",
     "static/js/2.1698af22.chunk.js": "/reactfinal/static/js/2.1698af22.chunk.js",
     "static/js/2.1698af22.chunk.js.map": "/reactfinal/static/js/2.1698af22.chunk.js.map",
     "index.html": "/reactfinal/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/reactfinal/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.1698af22.chunk.js.LICENSE.txt": "/reactfinal/static/js/2.1698af22.chunk.js.LICENSE.txt"
+    "static/js/2.1698af22.chunk.js.LICENSE.txt": "/reactfinal/static/js/2.1698af22.chunk.js.LICENSE.txt",
+    "static/media/chris1.29944a8a.jpeg": "/reactfinal/static/media/chris1.29944a8a.jpeg",
+    "static/media/chris2.83a01db3.jpeg": "/reactfinal/static/media/chris2.83a01db3.jpeg",
+    "static/media/chris3.66fe30bd.jpeg": "/reactfinal/static/media/chris3.66fe30bd.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.74a2c900.js",
     "static/js/2.1698af22.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.3c716828.chunk.js"
+    "static/js/main.5baddffa.chunk.js"
   ]
 }
