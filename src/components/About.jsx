@@ -1,4 +1,5 @@
 import React from "react";
+import chris3 from "./chris3.jpeg";
 
 function About() {
   return (
@@ -6,11 +7,12 @@ function About() {
       <div class="container">
         <div class="row align-items-center my-5">
           <div class="col-lg-7">
-            <img
-              class="img-fluid rounded mb-4 mb-lg-0"
-              src=""
-              alt=""
-            />
+          <img 
+          src={chris3} 
+          alt="mypic"
+          height= "550px"
+          width= "550px"
+          />
           </div>
           <div class="col-lg-5">
             <h1 class="font-weight-light">About</h1>
